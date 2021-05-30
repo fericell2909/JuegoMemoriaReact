@@ -1,0 +1,29 @@
+header {
+  height: 50px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;;
+  align-content: center;
+}
+
+.titulo {
+  font-size: 25px;
+  padding: 10px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.boton-reiniciar {
+  position: absolute;
+  left: 12px;
+  top: 58px;
+  background-color: #FFF;
+  color: #000;
+  font-weight: 700;
+  box-shadow: 2px 2px 2px 2px #ffb300;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+}

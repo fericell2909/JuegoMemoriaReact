@@ -1,0 +1,8 @@
+body {
+  background-color: black;
+  opacity: .8;
+}
+
+div:focus {
+  outline: none !important;
+}
